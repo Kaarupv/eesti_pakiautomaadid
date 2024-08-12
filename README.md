@@ -4,7 +4,7 @@ This is a simple web application that helps users find the best parcel locker op
 
 ## Deployment
 
-The project is deployed on Vercel and can be accessed [here](#).
+The project is deployed on Vercel and can be accessed [https://eesti-pakiautomaadid.vercel.app/](#).
 
 ## How It Works
 
@@ -12,7 +12,7 @@ The project is deployed on Vercel and can be accessed [here](#).
 2. The application compares available options from different parcel providers.
 3. The best option, based on size and price, is displayed with a link to order.
 
-## Providers Included
+## Providers Included as of 13.08.2024
 
 -   Omniva
 -   DPD
