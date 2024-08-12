@@ -1,0 +1,166 @@
+{
+    "omniva": [
+        {
+            "name": "S",
+            "width": 38,
+            "length": 64,
+            "height": 9,
+            "maxWeight": 30,
+            "price": 3.18,
+            "link": "https://minu.omniva.ee/parcel/baltics/new"
+        },
+        {
+            "name": "M",
+            "width": 38,
+            "length": 64,
+            "height": 19,
+            "maxWeight": 30,
+            "price": 4.39,
+            "link": "https://minu.omniva.ee/parcel/baltics/new"
+        },
+        {
+            "name": "L",
+            "width": 38,
+            "length": 64,
+            "height": 39,
+            "maxWeight": 30,
+            "price": 5.29,
+            "link": "https://minu.omniva.ee/parcel/baltics/new"
+        }
+    ],
+
+    "dpd": [
+        {
+            "name": "XS",
+            "width": 18,
+            "length": 61,
+            "height": 8,
+            "maxWeight": 31.5,
+            "price": 2.65,
+            "link": "https://telli.dpd.ee/order"
+        },
+        {
+            "name": "S",
+            "width": 43,
+            "length": 61,
+            "height": 8,
+            "maxWeight": 31.5,
+            "price": 3.1,
+            "link": "https://telli.dpd.ee/order"
+        },
+        {
+            "name": "M",
+            "width": 43,
+            "length": 61,
+            "height": 17,
+            "maxWeight": 31.5,
+            "price": 4.15,
+            "link": "https://telli.dpd.ee/order"
+        },
+        {
+            "name": "L",
+            "width": 43,
+            "length": 61,
+            "height": 36,
+            "maxWeight": 31.5,
+            "price": 5.1,
+            "link": "https://telli.dpd.ee/order"
+        }
+    ],
+
+    "itella": [
+        {
+            "name": "XS",
+            "width": 34,
+            "length": 42,
+            "height": 5,
+            "maxWeight": 5,
+            "price": 2.64,
+            "link": "https://my.smartpost.ee/new_shipment/"
+        },
+        {
+            "name": "S",
+            "width": 34,
+            "length": 42,
+            "height": 12,
+            "maxWeight": 35,
+            "price": 3.04,
+            "link": "https://my.smartpost.ee/new_shipment/"
+        },
+        {
+            "name": "M",
+            "width": 34,
+            "length": 42,
+            "height": 20,
+            "maxWeight": 35,
+            "price": 4.05,
+            "link": "https://my.smartpost.ee/new_shipment/"
+        },
+        {
+            "name": "L",
+            "width": 36,
+            "length": 42,
+            "height": 34,
+            "maxWeight": 35,
+            "price": 4.97,
+            "link": "https://my.smartpost.ee/new_shipment/"
+        },
+        {
+            "name": "XL",
+            "width": 36,
+            "length": 60,
+            "height": 60,
+            "maxWeight": 35,
+            "price": 6.6,
+            "link": "https://my.smartpost.ee/new_shipment/"
+        }
+    ],
+
+    "unisend": [
+        {
+            "name": "XS",
+            "width": 18.5,
+            "length": 61,
+            "height": 8,
+            "maxWeight": 30,
+            "price": 2.45,
+            "link": "https://my.unisend.ee/cart/order/options"
+        },
+        {
+            "name": "S",
+            "width": 35,
+            "length": 61,
+            "height": 18,
+            "maxWeight": 30,
+            "price": 2.85,
+            "link": "https://my.unisend.ee/cart/order/options"
+        },
+        {
+            "name": "M",
+            "width": 35,
+            "length": 61,
+            "height": 17.5,
+            "maxWeight": 30,
+            "price": 3.85,
+            "link": "https://my.unisend.ee/cart/order/options"
+        },
+        {
+            "name": "L",
+            "width": 35,
+            "length": 61,
+            "height": 36.5,
+            "maxWeight": 30,
+            "price": 4.65,
+            "link": "https://my.unisend.ee/cart/order/options"
+        },
+        {
+            "name": "XL",
+            "width": 35,
+            "length": 61,
+            "height": 74.5,
+            "maxWeight": 30,
+            "price": 6.35,
+            "link": "https://my.unisend.ee/cart/order/options"
+        }
+    ]
+}
