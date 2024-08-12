@@ -66,5 +66,17 @@ fetch("providers.json")
                     "<p>No suitable options found for the given dimensions and weight.</p>";
             }
         });
+
+        // Reset button functionality
+        document.querySelector(".reset_btn").addEventListener("click", () => {
+            // Clear input fields
+            document.getElementById("length").value = "";
+            document.getElementById("width").value = "";
+            document.getElementById("height").value = "";
+            document.getElementById("weight").value = "";
+
+            // Clear result
+            document.getElementById("result").innerHTML = "";
+        });
     })
     .catch((error) => console.error("Error fetching providers:", error));

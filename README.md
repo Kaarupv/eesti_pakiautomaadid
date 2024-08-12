@@ -4,7 +4,7 @@ This is a simple web application that helps users find the best parcel locker op
 
 ## Deployment
 
-The project is deployed on Vercel and can be accessed [https://eesti-pakiautomaadid.vercel.app/](#).
+The project is deployed on Vercel and can be accessed [here](https://eesti-pakiautomaadid.vercel.app/).
 
 ## How It Works
 
